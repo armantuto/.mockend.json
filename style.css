@@ -1,0 +1,22 @@
+.art{
+    display: flex;
+    -ms-flex-align: start;
+    margin-top: 5%;
+    
+}
+
+.articoli1{
+    border: 1px solid;
+    width: 60%;
+    margin-left: 5%;
+    height: 70vh;
+}
+
+.articoli2{
+    overflow: hidden;
+    margin-left: 5%;
+    border: 1px solid black;
+    width: 60%;
+    margin-right: 5%;
+}
+
